@@ -1,2 +1,6 @@
 # gitskills
 Creating a new branch is quick and simple.
+
+The work before fix bug...
+
+After fix bug...
